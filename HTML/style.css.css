@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: lightgreen;}
+h1 {background-color: red; color: white}
+h2 {background-color: pink;color: white; text-align: center ; border: 1px pink double:;}
+p {font-family: verdana; font-size: 20px; background-color: pink;color: white; text-align: center;}
+li{background-color: pink ; color : white;}
+img {width: 200px;height: 300px;border-radius: 360%;border: 4px double #ddd ; border-radius: 500%; border-color: white }
+blockquote {background-color: pink, color :white:text-align: center;}
+</style>
+</head>
+<body>
+</html>
